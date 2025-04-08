@@ -1,4 +1,9 @@
-# Voyager
+<hr />
+
+<img src="docs/banner.png" width="100%">
+
+<hr />
+
 A hub with *sleek modern design* and **powerful, stable scripts** that are there to properly enhance your experienc- I gave up..
 THIS HUB IS SO KEWL LIKE VERY PROFESSIONAL KEWL!! IT HAS UH:
 
