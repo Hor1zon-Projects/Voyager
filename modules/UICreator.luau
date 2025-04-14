@@ -3,7 +3,6 @@
 Credits: dawid, .ftgs
 
 --]]
-
 local TweenService = game:GetService("TweenService")
 
 local Creator = {
@@ -82,9 +81,7 @@ function Creator.New(Name, Properties, Children)
     end
     
     for Name, Value in next, Properties or {} do
-        if Name ~= "ThemeTag" then
-            Object[Name] = Value
-        end
+        Object[Name] = Value
     end
     
     for _, Child in next, Children or {} do
