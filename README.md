@@ -7,25 +7,13 @@
 A hub with *sleek modern design* and **powerful, stable scripts** that are there to properly enhance your experienc- I gave up..
 THIS HUB IS SO KEWL LIKE VERY PROFESSIONAL KEWL!! IT HAS UH:
 
-two? YEAH **TWO VERSIONS**!! AND THEY AREEEEEEEJDJAKDK
+- 3+ supported games
+- Sleek UI
+- idk
 
 > [!WARNING]
 > Some executors may experience errors due to the compatibility of the executor. If encounter please do the follow following: Make an issue within the repository or join the discord.
 
-## NX
-- A more stable yet powerful version of **Voyager**
-- Clean, simple UI.
-- Easy key system(just do math lolz)
-- And **MORE**!!!
-
-## Full
-- A very powerful version of **Voyager**
-- Built to be one of the best hub out there.
-- Very cool and swag
-- idk
-
-> [!NOTE]
-> This is not final, we are not sure if *Voyager* has two versions.
 
 ## Why Voyager??
 Cuzzzzzz:
@@ -38,15 +26,13 @@ SO USE IT NOW
 ## Credits:
 `Remiebun` - Lead developer and creator of Voyager.
 
-`catt` Developer and co-creator of Voyager.
-
-Nuga - Co-creator and manager.
+`Nuga` - Co-creator and manager.
 
 #### Special thanks!
 
 `.ftgs` - Creator of [Wind UI](https://github.com/Footagesus/WindUI)
 
-`hunter, JustHey, Throit` - Developers of [Luna Interface](https://github.com/Nebula-Softworks/Luna-Interface-Suite/tree/main)
+`catt` - Beta Tester and Former Owner.
 
 Teo - Beta Tester
 
