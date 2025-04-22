@@ -1,4 +1,2 @@
-# Major changes
-- Merged full and NX together.
-- Deprecated alot of stuff
-
+# CANCELLED
+- Open sourced the whole thing.
