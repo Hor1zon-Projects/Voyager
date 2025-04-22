@@ -1,3 +1,7 @@
+
+# CANCELLED!!!
+yes sadly, I will be going on and passing this project to one of my friends. I will be open sourcing the __TEMPLATE__ of the script, that way u know where to start. We apologize for not making this possible, still thank you for being here with us.
+
 <hr />
 
 <img src="docs/banner.png" width="100%">
